@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/authelia/authelia/v4/internal/commands"
+	"github.com/authelia/authelia/v4/pkg/commands"
 )
 
 func main() {

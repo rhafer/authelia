@@ -11,7 +11,7 @@ import (
 	"github.com/spf13/cobra/doc"
 
 	cmdscripts "github.com/authelia/authelia/v4/cmd/authelia-scripts/cmd"
-	"github.com/authelia/authelia/v4/internal/commands"
+	"github.com/authelia/authelia/v4/pkg/commands"
 )
 
 func newDocsCLICmd() *cobra.Command {
